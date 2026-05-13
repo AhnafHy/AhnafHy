@@ -81,7 +81,3 @@ Fourth-year **Computer Science Student @ York University**. Passionate about **c
 ## Certifications
 
 ![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhnafHy&show_icons=true&theme=dark&hide_border=true)
