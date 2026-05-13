@@ -46,6 +46,10 @@ Fourth-year **Computer Science Student @ York University**. Passionate about **c
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+## Certifications
+
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ---
 
 ## Projects
@@ -77,7 +81,3 @@ Fourth-year **Computer Science Student @ York University**. Passionate about **c
 | [FinOps Dashboard](https://github.com/AhnafHy/finops-dashboard) | AWS cost visibility tool, pulls Cost Explorer data daily, stores snapshots in DynamoDB, and exposes a REST API with budget projection and CloudWatch budget alarms | Lambda, DynamoDB, API Gateway, Cost Explorer, CloudWatch |
 
 ---
-
-## Certifications
-
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
