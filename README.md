@@ -64,7 +64,6 @@ Fourth-year **Computer Science Student @ York University**. Passionate about **c
 | [RAG Document Assistant](https://github.com/AhnafHy/rag-document-assistant) | Upload any PDF and chat with it, text chunking, OpenAI embeddings, cosine similarity retrieval, and GPT-4o-mini generation | React, Lambda, S3, DynamoDB, OpenAI | [Live](http://rag-document-assistant-frontend-8eed2efc.s3-website-us-east-1.amazonaws.com/)  |
 | [SOC 2 Evidence Collector](https://github.com/AhnafHy/soc2-evidence-collector) | Automated SOC 2 compliance evidence collection from AWS APIs mapped to Trust Service Criteria controls | React, Lambda, DynamoDB, EventBridge, API Gateway | [Live](http://soc2-evidence-collector-frontend-c8c748ca.s3-website.us-east-2.amazonaws.com/)  |
 | [Policy-as-Code Checker](https://github.com/AhnafHy/policy-as-code-checker) | Terraform security scanner, paste HCL and get instant findings with severity ratings and remediation advice | React, Lambda, DynamoDB, API Gateway | [Live](http://pac-checker-frontend-b1dec6ad.s3-website.us-east-2.amazonaws.com/)  |
-| [FinOps Dashboard](https://github.com/AhnafHy/finops-dashboard) | AWS cost visibility tool, pulls Cost Explorer data daily, stores snapshots, and exposes a REST API with budget projection and alerts | Lambda, DynamoDB, API Gateway, Cost Explorer, CloudWatch | — |
 
 ### Infrastructure & Pipelines
 
@@ -75,6 +74,7 @@ Fourth-year **Computer Science Student @ York University**. Passionate about **c
 | [Log Analysis Pipeline](https://github.com/AhnafHy/log-analysis-pipeline) | Real-time log streaming pipeline with partitioned S3 storage and serverless SQL analytics via Athena | Lambda, Kinesis Firehose, S3, Athena, Glue |
 | [Kubernetes Autoscaler](https://github.com/AhnafHy/k8s-autoscaler) | Python Flask app containerized and deployed on Kubernetes — scales from 1 to 4 replicas under simulated CPU load | Kubernetes, Helm, HPA, Prometheus, Docker |
 | [Serverless URL Shortener](https://github.com/AhnafHy/Url-Shortener) | Fully serverless REST API with CI/CD pipeline — provisioned entirely with Terraform IaC | Lambda, DynamoDB, API Gateway, Terraform, GitHub Actions |
+| [FinOps Dashboard](https://github.com/AhnafHy/finops-dashboard) | AWS cost visibility tool, pulls Cost Explorer data daily, stores snapshots in DynamoDB, and exposes a REST API with budget projection and CloudWatch budget alarms | Lambda, DynamoDB, API Gateway, Cost Explorer, CloudWatch |
 
 ---
 
